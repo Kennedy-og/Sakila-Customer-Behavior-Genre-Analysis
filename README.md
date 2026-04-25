@@ -1,6 +1,6 @@
 # Project Findings: Customer Behavior & Genre Analysis
 
-[Back to Top](#project-findings-customer-behavior--genre-analysis)
+[Back to Bottom](#final-note)
 
 ## Table of Contents
 - [Overview](#overview)
