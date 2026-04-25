@@ -1,6 +1,38 @@
-# Customer Behavior & Genre Analysis
+# Project Findings: Customer Behavior & Genre Analysis
+
+[Back to Top](#project-findings-customer-behavior--genre-analysis)
+
+## Table of Contents
+- [Overview](#overview)
+- [Customer Behavior Insights](#customer-behavior-insights)
+  - [1. High-Value Customers Drive Revenue](#1-high-value-customers-drive-revenue)
+  - [2. Active Customers Contribute Most of the Engagement](#2-active-customers-contribute-most-of-the-engagement)
+- [Genre Preference Insights](#genre-preference-insights)
+  - [3. A Few Genres Dominate Rental Demand](#3-a-few-genres-dominate-rental-demand)
+  - [4. Customers Show Clear Repeat Genre Behavior](#4-customers-show-clear-repeat-genre-behavior)
+- [Revenue Insights](#revenue-insights)
+  - [5. Revenue Is Concentrated in Specific Segments](#5-revenue-is-concentrated-in-specific-segments)
+  - [6. Customer Activity and Spending Move Together](#6-customer-activity-and-spending-move-together)
+- [Time-Based Insights](#time-based-insights)
+  - [7. Rental Activity Changes Over Time](#7-rental-activity-changes-over-time)
+- [City-Level Insights](#city-level-insights)
+  - [8. Rental and Revenue Performance Differ by City](#8-rental-and-revenue-performance-differ-by-city)
+  - [9. Genre Preference Is Not the Same in Every City](#9-genre-preference-is-not-the-same-in-every-city)
+- [Overall Conclusion](#overall-conclusion)
+- [Recommendations](#recommendations)
+  - [1. Protect the High-Value Customer Segment](#1-protect-the-high-value-customer-segment)
+  - [2. Build Reactivation Campaigns for Inactive Customers](#2-build-reactivation-campaigns-for-inactive-customers)
+  - [3. Promote High-Performing Genres More Aggressively](#3-promote-high-performing-genres-more-aggressively)
+  - [4. Personalize Recommendations by Genre Preference](#4-personalize-recommendations-by-genre-preference)
+  - [5. Increase Repeat Rental Activity](#5-increase-repeat-rental-activity)
+  - [6. Plan Promotions Around Demand Timing](#6-plan-promotions-around-demand-timing)
+  - [7. Adjust Marketing by City](#7-adjust-marketing-by-city)
+  - [8. Tailor Genre Campaigns by Location](#8-tailor-genre-campaigns-by-location)
+- [Final Note](#final-note)
 
 ## Overview
+[Back to Top](#project-findings-customer-behavior--genre-analysis)
+
 This document presents the main insights from analyzing customer rental behavior, spending patterns, genre preferences, and geographic trends in the Sakila database.
 
 The purpose of the analysis is to convert raw transactional data into clear business insights that support customer retention, revenue growth, and more targeted marketing decisions.
@@ -8,8 +40,11 @@ The purpose of the analysis is to convert raw transactional data into clear busi
 ---
 
 ## Customer Behavior Insights
+[Back to Top](#project-findings-customer-behavior--genre-analysis)
 
 ### 1. High-Value Customers Drive Revenue
+[Back to Top](#project-findings-customer-behavior--genre-analysis)
+
 The analysis shows that customer value is concentrated in a relatively small segment of the customer base.
 
 - The top customers represent only 20% of all customers
@@ -22,6 +57,8 @@ The business relies heavily on a smaller group of high-value customers. Retainin
 ---
 
 ### 2. Active Customers Contribute Most of the Engagement
+[Back to Top](#project-findings-customer-behavior--genre-analysis)
+
 Customer activity status is strongly linked to business performance.
 
 - Active customers account for the majority of the customer base
@@ -34,8 +71,11 @@ Customer activity is directly tied to business value. The company should maintai
 ---
 
 ## Genre Preference Insights
+[Back to Top](#project-findings-customer-behavior--genre-analysis)
 
 ### 3. A Few Genres Dominate Rental Demand
+[Back to Top](#project-findings-customer-behavior--genre-analysis)
+
 Genre demand is concentrated in a smaller number of high-performing categories.
 
 - A few genres consistently generate the highest rental activity
@@ -48,6 +88,8 @@ The business should prioritize high-performing genres in promotions, recommendat
 ---
 
 ### 4. Customers Show Clear Repeat Genre Behavior
+[Back to Top](#project-findings-customer-behavior--genre-analysis)
+
 Customer rental behavior shows that many customers do not rent randomly across all genres.
 
 - Some customers repeatedly rent films from the same genre
@@ -60,8 +102,11 @@ Genre preference is useful for personalization. Customers with strong repeat pat
 ---
 
 ## Revenue Insights
+[Back to Top](#project-findings-customer-behavior--genre-analysis)
 
 ### 5. Revenue Is Concentrated in Specific Segments
+[Back to Top](#project-findings-customer-behavior--genre-analysis)
+
 Revenue concentration appears at both the customer level and the genre level.
 
 - High-value customers generate a large share of total revenue
@@ -74,6 +119,8 @@ The business should focus more resources on the customer and genre segments that
 ---
 
 ### 6. Customer Activity and Spending Move Together
+[Back to Top](#project-findings-customer-behavior--genre-analysis)
+
 The analysis shows a clear link between rental activity and total spending.
 
 - Customers who rent more frequently also tend to spend more overall
@@ -86,8 +133,11 @@ Strategies that increase repeat rentals are likely to increase overall revenue. 
 ---
 
 ## Time-Based Insights
+[Back to Top](#project-findings-customer-behavior--genre-analysis)
 
 ### 7. Rental Activity Changes Over Time
+[Back to Top](#project-findings-customer-behavior--genre-analysis)
+
 Rental demand is not constant across the time period analyzed.
 
 - Some months show stronger customer activity than others
@@ -100,8 +150,11 @@ The business should use time-based patterns to schedule promotions, campaigns, a
 ---
 
 ## City-Level Insights
+[Back to Top](#project-findings-customer-behavior--genre-analysis)
 
 ### 8. Rental and Revenue Performance Differ by City
+[Back to Top](#project-findings-customer-behavior--genre-analysis)
+
 Customer demand is not evenly distributed across all locations.
 
 - Some cities contribute more rentals than others
@@ -114,6 +167,8 @@ High-performing cities should receive more marketing attention and operational f
 ---
 
 ### 9. Genre Preference Is Not the Same in Every City
+[Back to Top](#project-findings-customer-behavior--genre-analysis)
+
 Genre popularity changes across locations.
 
 - Certain genres perform better in specific cities
@@ -126,6 +181,8 @@ Marketing campaigns should be adjusted by city. A single promotion strategy is l
 ---
 
 ## Overall Conclusion
+[Back to Top](#project-findings-customer-behavior--genre-analysis)
+
 The analysis highlights four major patterns:
 
 - A relatively small customer segment drives a large share of revenue
@@ -138,8 +195,11 @@ These findings show that customer behavior, content performance, and geography a
 ---
 
 ## Recommendations
+[Back to Top](#project-findings-customer-behavior--genre-analysis)
 
 ### 1. Protect the High-Value Customer Segment
+[Back to Top](#project-findings-customer-behavior--genre-analysis)
+
 Because the top customers represent only 20% of the customer base but contribute a large share of business value, they should be treated as a priority segment.
 
 Recommended actions:
@@ -150,6 +210,8 @@ Recommended actions:
 ---
 
 ### 2. Build Reactivation Campaigns for Inactive Customers
+[Back to Top](#project-findings-customer-behavior--genre-analysis)
+
 Since inactive customers contribute less engagement and revenue, reactivation efforts should focus on bringing them back into the rental cycle.
 
 Recommended actions:
@@ -160,6 +222,8 @@ Recommended actions:
 ---
 
 ### 3. Promote High-Performing Genres More Aggressively
+[Back to Top](#project-findings-customer-behavior--genre-analysis)
+
 Because only a few genres dominate rentals and revenue, marketing resources should be concentrated on those genres.
 
 Recommended actions:
@@ -170,6 +234,8 @@ Recommended actions:
 ---
 
 ### 4. Personalize Recommendations by Genre Preference
+[Back to Top](#project-findings-customer-behavior--genre-analysis)
+
 Since many customers repeatedly rent from the same genre, recommendations should reflect individual taste patterns.
 
 Recommended actions:
@@ -180,6 +246,8 @@ Recommended actions:
 ---
 
 ### 5. Increase Repeat Rental Activity
+[Back to Top](#project-findings-customer-behavior--genre-analysis)
+
 Because spending rises with customer activity, the business should encourage customers to rent more often.
 
 Recommended actions:
@@ -190,6 +258,8 @@ Recommended actions:
 ---
 
 ### 6. Plan Promotions Around Demand Timing
+[Back to Top](#project-findings-customer-behavior--genre-analysis)
+
 Since rental activity changes over time, promotions should be aligned with stronger and weaker periods.
 
 Recommended actions:
@@ -200,6 +270,8 @@ Recommended actions:
 ---
 
 ### 7. Adjust Marketing by City
+[Back to Top](#project-findings-customer-behavior--genre-analysis)
+
 Because city performance differs, the business should use location-based strategy instead of treating all cities the same.
 
 Recommended actions:
@@ -210,6 +282,8 @@ Recommended actions:
 ---
 
 ### 8. Tailor Genre Campaigns by Location
+[Back to Top](#project-findings-customer-behavior--genre-analysis)
+
 Because genre preference differs across cities, genre-based marketing should be localized.
 
 Recommended actions:
@@ -220,4 +294,6 @@ Recommended actions:
 ---
 
 ## Final Note
+[Back to Top](#project-findings-customer-behavior--genre-analysis)
+
 This project demonstrates how SQL can be used to transform relational data into practical business insights. It shows how customer behavior analysis, genre analysis, revenue analysis, and city-level analysis can support better business decisions.
