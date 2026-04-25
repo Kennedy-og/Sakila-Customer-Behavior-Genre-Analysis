@@ -39,6 +39,12 @@ The purpose of the analysis is to convert raw transactional data into clear busi
 
 ---
 
+## Tools Used
+
+- MySQL
+- Sakila Database
+---
+
 ## Customer Behavior Insights
 [Back to Top](#project-findings-customer-behavior--genre-analysis)
 
